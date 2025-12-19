@@ -1,0 +1,27 @@
+{
+  "hash": "c6c0291a",
+  "configHash": "075ad775",
+  "lockfileHash": "a01a288c",
+  "browserHash": "57fed2fe",
+  "optimized": {
+    "alpinejs": {
+      "src": "../../node_modules/alpinejs/dist/module.esm.js",
+      "file": "alpinejs.js",
+      "fileHash": "820dd715",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "231328b8",
+      "needsInterop": false
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "47e0827f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
